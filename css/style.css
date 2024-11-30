@@ -156,7 +156,8 @@ details{
 }
 
 nav li{
-    background-color: rgb(201, 219, 252);
+    border: solid 3px black;
+    background-color: rgb(222, 235, 245);
     /* padding:5px; */
     margin:5px;
 }
@@ -173,7 +174,7 @@ nav li{
     }
 
     nav li{
-        background-color: rgb(201, 219, 252);
+        /* background-color: rgb(201, 219, 252); */
         padding:20px;
         margin:10px;
     }
